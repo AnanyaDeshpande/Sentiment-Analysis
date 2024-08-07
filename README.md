@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 ![emotion](https://github.com/user-attachments/assets/f5873a99-c8b4-4ec5-b375-46c222309f31)
 ## Introduction
-  Sentiment analysis is crucial for interpreting textual data, with applications across various domains such as business insights, market research, customer support, social media monitoring, political analysis, content moderation, and financial forecasting.
+##  Sentiment analysis is crucial for interpreting textual data, with applications across various domains such as business insights, market research, customer support, social media monitoring, political analysis, content moderation, and financial forecasting.
 
 ### Research Focus : Investigates various sentiment analysis methodologies from traditional rule-based approaches to advanced deep learning techniques.
 
