@@ -21,3 +21,11 @@
 ### Key Insights : Highlights the importance of additional layers in model performance and the strength of deep learning in handling nuanced emotions.
 
 ### Conclusion : Showcases how deep learning, particularly DistilBERT, advances sentiment analysis methodologies by providing superior performance and handling nuanced emotions effectively.
+
+## Applications
+
+### Sentiment analysis enables automated systems to detect customer emotions in real-time, allowing for more personalized and effective responses.
+
+### Sentiment analysis is used to understand public opinion on political candidates, policies, and events
+
+### Sentiment analysis is applied to gauge audience reactions to movies, TV shows, music, and other entertainment content.
